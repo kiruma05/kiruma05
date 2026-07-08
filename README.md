@@ -3,8 +3,7 @@
 
 <p align="center">
   Data Engineer with hands-on experience building scalable ETL pipelines and data infrastructure
-  across production-grade banking and financial-institution platforms — business intelligence,
-  anti-money-laundering transaction monitoring, revenue assurance, and credit management.
+  across production-grade banking and financial-institution platforms —like business intelligence.
   Databricks Certified Data Engineer Associate and IBM-certified in Watson data and Guardium
   data security. I build reliable Spark, Flink, Airflow, and Dagster pipelines with automated
   data quality checks, encryption, and access control — engineered to international standards

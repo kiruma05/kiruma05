@@ -103,14 +103,9 @@
   <img src="https://img.shields.io/badge/Disaster%20Recovery-718096?style=for-the-badge" alt="Disaster Recovery"/>
 </p>
 
-## 💼 Professional Highlights
 
-Currently a **Data Engineer at SoftNet (Dar es Salaam)**, building four production data platforms for banks and financial institutions:
 
-- 🏦 **Anti-Money-Laundering Transaction Monitoring** — real-time & batch ingestion from core banking systems, digital channels, and third-party KYC providers; customer data repositories powering risk profiling, PEP & sanctions screening, and behavioral analysis
-- 📊 **Business Intelligence Platform** — Spark/Airflow/Dagster ETL into a central analytics layer, with dbt + Great Expectations for quality, and dashboards in Superset, Power BI & Tableau
-- 💰 **Revenue Assurance Platform** — reconciliation pipelines detecting revenue leakage and billing discrepancies across transaction, billing, and fee records
-- 💳 **Credit Management System** — pipelines integrating credit history, repayments, and risk-scoring inputs for credit decisioning
+
 
 Previously: data pipelines & notification systems for **NARCO (National Ranching Company)** using Spring Boot and PostgreSQL, and internal financial systems for **FADEMO Social Fund** with Laravel.
 

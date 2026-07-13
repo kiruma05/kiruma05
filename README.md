@@ -21,7 +21,6 @@
 ## 🛠️ Tech Stack
 
 ### 🔧 Data Engineering
-
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
@@ -50,7 +49,6 @@
 </p>
 
 ### 🤖 AI Engineering
-
 <p align="left">
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
@@ -59,10 +57,9 @@
   <img src="https://img.shields.io/badge/Anomaly%20Detection-8A2BE2?style=for-the-badge" alt="Anomaly Detection"/>
 </p>
 
-*Preparing Spark-computed behavioral features that feed anomaly-detection models for AML and revenue-leakage detection.*
+> 💡 **Core Specialization:** Engineering automated, Spark-computed behavioral features to feed real-time anomaly detection models for Anti-Money Laundering (AML) and corporate revenue assurance.
 
 ### 📈 Data Science & BI
-
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
@@ -76,7 +73,6 @@
 </p>
 
 ### 🌐 Full-Stack Web Development
-
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -92,9 +88,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-### 🔐 Data Security & Governance
-
+### 🔐 Data Security, Governance & Secrets Management
 <p align="left">
+  <img src="https://img.shields.io/badge/HashiCorp%20Vault-60DEC5?style=for-the-badge&logo=hashicorpvault&logoColor=white" alt="HashiCorp Vault"/>
   <img src="https://img.shields.io/badge/AES--256%20Encryption-2F855A?style=for-the-badge" alt="AES-256"/>
   <img src="https://img.shields.io/badge/TLS%201.3-2B6CB0?style=for-the-badge" alt="TLS 1.3"/>
   <img src="https://img.shields.io/badge/Apache%20Ranger-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Ranger"/>
@@ -103,45 +99,52 @@
   <img src="https://img.shields.io/badge/Disaster%20Recovery-718096?style=for-the-badge" alt="Disaster Recovery"/>
 </p>
 
+---
 
+## 🏗️ Proven Industry Experience
 
+*   **National Ranching Company (NARCO):** Architected robust backend data ingestion pipelines and real-time distributed notification mechanics utilizing Spring Boot and highly optimized PostgreSQL models.
+*   **FADEMO Social Fund:** Engineered secure, modular internal corporate fiscal management systems and data access APIs leveraging Laravel ecosystems.
 
-
-Previously: data pipelines & notification systems for **NARCO (National Ranching Company)** using Spring Boot and PostgreSQL, and internal financial systems for **FADEMO Social Fund** with Laravel.
+---
 
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| 🐄 [Animal Notification System](https://github.com/kiruma05/Animal-notification-Sytem.) | Livestock management & tracking solution built for NARCO — real-time alerts on animal health and location. | Spring Boot · PostgreSQL · Node.js |
-| 🌐 [MERN Full-Stack Project](https://github.com/kiruma05/mern-fullstack-project) | Complete full-stack web application built with the MERN stack. | MongoDB · Express · React · Node.js |
-| 🚦 [Turn-Road](https://github.com/kiruma05/new-turn-road) | Road-safety platform focused on reducing road accidents. | JavaScript · Node.js |
-| 🍕 [Pizza Delivery](https://github.com/kiruma05/pizza_delivery) | Online pizza ordering and delivery web application. | JavaScript · Node.js · MongoDB |
-| 🎨 [Artz](https://github.com/kiruma05/artz) | Web platform for showcasing and exploring art. | JavaScript |
+| 🐄 [Animal Notification System](https://github.com/kiruma05/Animal-notification-Sytem) | Enterprise tracking infrastructure built for NARCO providing sub-second alerting mechanisms for livestock location metrics and biometrics. | Spring Boot · PostgreSQL · Node.js |
+| 🌐 [MERN Full-Stack Project](https://github.com/kiruma05/mern-fullstack-project) | Complete multi-tier web ecosystem standardizing production-ready authentication wrappers and custom operational middleware hooks. | MongoDB · Express · React · Node.js |
+| 🚦 [Turn-Road](https://github.com/kiruma05/new-turn-road) | Public safety analytic infrastructure mapping predictive risk indicators to mitigate modern road hazards dynamically. | JavaScript · Node.js |
+| 🍕 [Pizza Delivery](https://github.com/kiruma05/pizza_delivery) | End-to-end consumer ordering system engineered for concurrent payload distributions and transaction isolation models. | JavaScript · Node.js · MongoDB |
+| 🎨 [Artz](https://github.com/kiruma05/artz) | Modular single-page application focused on high rendering performance pipelines. | JavaScript |
 
-## 🎓 Certifications
+---
 
-- **Databricks Certified Data Engineer Associate**
-- **IBM Watson — Data** (IBM certification)
-- **IBM Guardium — AI / Data Security** (IBM certification)
-- Data Science & Machine Learning: Ultimate Course Bootcamp (Udemy)
-- GIT, GitLab, GitHub Fundamentals for Software Developers (Udemy)
+## 🎓 Certifications & Education
+
+*   **Databricks** Certified Data Engineer Associate
+*   **IBM Watson** – Data Governance Specialist
+*   **IBM Guardium** – AI & Corporate Data Security Architect
+*   *Data Science & Machine Learning: Ultimate Course Bootcamp* (Udemy Mastery)
+*   *GIT, GitLab, GitHub Fundamentals for Systems Developers* (Udemy Professional)
 
 🎓 **BSc in Software Engineering** — University of Dodoma (UDOM), College of Informatics and Virtual Education (CIVE)
 
-## 📊 GitHub Stats
+---
+
+## 📊 GitHub Analytics
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kiruma05&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiruma05&layout=compact&hide_border=true" alt="Top languages" height="165"/>
 </p>
 
-## 📫 Get in Touch
+## 📫 Connect & Collaborate
 
-- 📧 Email: **frankkiruma05@gmail.com**
-- 💼 LinkedIn: **[Frank Kiruma](https://www.linkedin.com/in/frank-kiruma-45293b26a)**
-- 📍 Dar es Salaam, Tanzania
+*   📧 **Email:** frankkiruma05@gmail.com
+*   💼 **LinkedIn:** [Frank Kiruma](https://www.linkedin.com/in/frank-kiruma-45293b26a)
+*   📍 **Location:** Dar es Salaam, Tanzania
 
 ---
 
-<p align="center"><i>"Code that solves a real problem is worth a thousand demos."</i></p>
+<p align="center"><i>"Code that solves a real business problem is worth a thousand local demos."</i></p>

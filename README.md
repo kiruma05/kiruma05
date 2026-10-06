@@ -1,5 +1,8 @@
-<h1 align="center">Frank Joseph Kiruma</h1>
-<h3 align="center">Data Engineer · Banking-grade data platforms · Dar es Salaam, Tanzania 🇹🇿</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Frank Joseph Kiruma, Data Engineer: streaming and CDC pipelines, AML transaction monitoring, data warehousing and BI" src="assets/header-light.svg" width="100%">
+</picture>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/frank-kiruma-45293b26a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>

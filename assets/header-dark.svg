@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="1200" height="250" role="img" aria-label="Frank Joseph Kiruma, Data Engineer">
+  <title>Frank Joseph Kiruma, Data Engineer</title>
+  <defs>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#58a6ff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="c0"><rect x="412.8" y="162" height="36" width="0">
+      <animate attributeName="width" values="0;15.6;31.2;46.8;62.4;78;93.6;109.2;124.8;140.4;156;171.6;187.2;202.8;218.4;234;249.6;265.2;280.8;296.4;312;327.6;343.2;358.8;374.4;390;374.4;358.8;343.2;327.6;312;296.4;280.8;265.2;249.6;234;218.4;202.8;187.2;171.6;156;140.4;124.8;109.2;93.6;78;62.4;46.8;31.2;15.6;0" keyTimes="0;0.0047;0.0093;0.014;0.0187;0.0233;0.028;0.0327;0.0373;0.042;0.0467;0.0513;0.056;0.0607;0.0653;0.07;0.0747;0.0793;0.084;0.0887;0.0933;0.098;0.1027;0.1073;0.112;0.1167;0.2725;0.2742;0.2758;0.2775;0.2792;0.2808;0.2825;0.2842;0.2858;0.2875;0.2892;0.2908;0.2925;0.2942;0.2958;0.2975;0.2992;0.3008;0.3025;0.3042;0.3058;0.3075;0.3092;0.3108;0.3125" dur="12s" calcMode="discrete" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <clipPath id="c1"><rect x="412.8" y="162" height="36" width="0">
+      <animate attributeName="width" values="0;0;15.6;31.2;46.8;62.4;78;93.6;109.2;124.8;140.4;156;171.6;187.2;202.8;218.4;234;249.6;265.2;280.8;296.4;312;327.6;343.2;358.8;374.4;390;405.6;390;374.4;358.8;343.2;327.6;312;296.4;280.8;265.2;249.6;234;218.4;202.8;187.2;171.6;156;140.4;124.8;109.2;93.6;78;62.4;46.8;31.2;15.6;0" keyTimes="0;0.3333;0.3378;0.3423;0.3468;0.3513;0.3558;0.3603;0.3647;0.3692;0.3737;0.3782;0.3827;0.3872;0.3917;0.3962;0.4006;0.4051;0.4096;0.4141;0.4186;0.4231;0.4276;0.4321;0.4365;0.441;0.4455;0.45;0.6058;0.6074;0.609;0.6106;0.6122;0.6138;0.6154;0.617;0.6186;0.6202;0.6218;0.6234;0.625;0.6266;0.6282;0.6298;0.6314;0.633;0.6346;0.6362;0.6378;0.6394;0.641;0.6426;0.6442;0.6458" dur="12s" calcMode="discrete" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <clipPath id="c2"><rect x="412.8" y="162" height="36" width="0">
+      <animate attributeName="width" values="0;0;15.6;31.2;46.8;62.4;78;93.6;109.2;124.8;140.4;156;171.6;187.2;202.8;218.4;234;249.6;265.2;280.8;296.4;312;327.6;312;296.4;280.8;265.2;249.6;234;218.4;202.8;187.2;171.6;156;140.4;124.8;109.2;93.6;78;62.4;46.8;31.2;15.6;0" keyTimes="0;0.6667;0.6722;0.6778;0.6833;0.6889;0.6944;0.7;0.7056;0.7111;0.7167;0.7222;0.7278;0.7333;0.7389;0.7444;0.75;0.7556;0.7611;0.7667;0.7722;0.7778;0.7833;0.9395;0.9415;0.9435;0.9454;0.9474;0.9494;0.9514;0.9534;0.9554;0.9573;0.9593;0.9613;0.9633;0.9653;0.9673;0.9692;0.9712;0.9732;0.9752;0.9772;0.9792" dur="12s" calcMode="discrete" repeatCount="indefinite"/>
+    </rect></clipPath>
+  </defs>
+  <rect x="1" y="1" width="1198" height="248" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <text x="600.0" y="98" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="50" font-weight="700" fill="#e6edf3">Frank Joseph Kiruma</text>
+  <text x="600.0" y="138" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="21" fill="#9198a1">Data Engineer · Banking-grade data platforms · Dar es Salaam, Tanzania</text>
+  <text x="381.6" y="188" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="26" font-weight="600" fill="#3fb950" textLength="31.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">> </text>
+  <text x="412.8" y="188" clip-path="url(#c0)" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="26" fill="#58a6ff" textLength="390" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Streaming &amp; CDC pipelines</text>
+  <text x="412.8" y="188" clip-path="url(#c1)" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="26" fill="#58a6ff" textLength="405.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">AML transaction monitoring</text>
+  <text x="412.8" y="188" clip-path="url(#c2)" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="26" fill="#58a6ff" textLength="327.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Data warehousing &amp; BI</text>
+  <rect y="165" width="3" height="28" fill="#58a6ff" x="414.8">
+    <animate attributeName="x" values="414.8;430.4;446;461.6;477.2;492.8;508.4;524;539.6;555.2;570.8;586.4;602;617.6;633.2;648.8;664.4;680;695.6;711.2;726.8;742.4;758;773.6;789.2;804.8;789.2;773.6;758;742.4;726.8;711.2;695.6;680;664.4;648.8;633.2;617.6;602;586.4;570.8;555.2;539.6;524;508.4;492.8;477.2;461.6;446;430.4;414.8;414.8;430.4;446;461.6;477.2;492.8;508.4;524;539.6;555.2;570.8;586.4;602;617.6;633.2;648.8;664.4;680;695.6;711.2;726.8;742.4;758;773.6;789.2;804.8;820.4;804.8;789.2;773.6;758;742.4;726.8;711.2;695.6;680;664.4;648.8;633.2;617.6;602;586.4;570.8;555.2;539.6;524;508.4;492.8;477.2;461.6;446;430.4;414.8;414.8;430.4;446;461.6;477.2;492.8;508.4;524;539.6;555.2;570.8;586.4;602;617.6;633.2;648.8;664.4;680;695.6;711.2;726.8;742.4;726.8;711.2;695.6;680;664.4;648.8;633.2;617.6;602;586.4;570.8;555.2;539.6;524;508.4;492.8;477.2;461.6;446;430.4;414.8" keyTimes="0;0.0047;0.0093;0.014;0.0187;0.0233;0.028;0.0327;0.0373;0.042;0.0467;0.0513;0.056;0.0607;0.0653;0.07;0.0747;0.0793;0.084;0.0887;0.0933;0.098;0.1027;0.1073;0.112;0.1167;0.2725;0.2742;0.2758;0.2775;0.2792;0.2808;0.2825;0.2842;0.2858;0.2875;0.2892;0.2908;0.2925;0.2942;0.2958;0.2975;0.2992;0.3008;0.3025;0.3042;0.3058;0.3075;0.3092;0.3108;0.3125;0.3333;0.3378;0.3423;0.3468;0.3513;0.3558;0.3603;0.3647;0.3692;0.3737;0.3782;0.3827;0.3872;0.3917;0.3962;0.4006;0.4051;0.4096;0.4141;0.4186;0.4231;0.4276;0.4321;0.4365;0.441;0.4455;0.45;0.6058;0.6074;0.609;0.6106;0.6122;0.6138;0.6154;0.617;0.6186;0.6202;0.6218;0.6234;0.625;0.6266;0.6282;0.6298;0.6314;0.633;0.6346;0.6362;0.6378;0.6394;0.641;0.6426;0.6442;0.6458;0.6667;0.6722;0.6778;0.6833;0.6889;0.6944;0.7;0.7056;0.7111;0.7167;0.7222;0.7278;0.7333;0.7389;0.7444;0.75;0.7556;0.7611;0.7667;0.7722;0.7778;0.7833;0.9395;0.9415;0.9435;0.9454;0.9474;0.9494;0.9514;0.9534;0.9554;0.9573;0.9593;0.9613;0.9633;0.9653;0.9673;0.9692;0.9712;0.9732;0.9752;0.9772;0.9792" dur="12s" calcMode="discrete" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="80" y="219" width="1040" height="1" fill="url(#fade)"/>
+  <circle cy="219.5" r="2.5" fill="#58a6ff" opacity="0">
+    <animate attributeName="cx" values="80;1120" dur="6s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.15;0.85;1" dur="6s" begin="0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cy="219.5" r="2.5" fill="#58a6ff" opacity="0">
+    <animate attributeName="cx" values="80;1120" dur="6s" begin="1.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.15;0.85;1" dur="6s" begin="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cy="219.5" r="2.5" fill="#58a6ff" opacity="0">
+    <animate attributeName="cx" values="80;1120" dur="6s" begin="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.15;0.85;1" dur="6s" begin="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cy="219.5" r="2.5" fill="#58a6ff" opacity="0">
+    <animate attributeName="cx" values="80;1120" dur="6s" begin="3.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.15;0.85;1" dur="6s" begin="3.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cy="219.5" r="2.5" fill="#58a6ff" opacity="0">
+    <animate attributeName="cx" values="80;1120" dur="6s" begin="4.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.15;0.85;1" dur="6s" begin="4.8s" repeatCount="indefinite"/>
+  </circle>
+</svg>
